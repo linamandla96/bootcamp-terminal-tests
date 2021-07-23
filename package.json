@@ -2,7 +2,7 @@
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
   "description": "",
-  "main": "countAllFromTown.js",
+  "main": "tes",
   "directories": {
     "test": "test"
   },
@@ -13,4 +13,3 @@
   "author": "",
   "license": "ISC"
 }
-
